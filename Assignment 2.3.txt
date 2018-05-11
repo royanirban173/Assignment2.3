@@ -1,0 +1,2 @@
+InpStr=input("Enter a String to see it in reverse :")
+print(InpStr[::-1])
